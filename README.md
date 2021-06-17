@@ -1,5 +1,4 @@
 # Codecademy Dictionaries Hurricane Project
- Dictionaries code challenge from Codecademy
 
 In this project, I practiced data processing and manipulation using dictionaries. 
 
